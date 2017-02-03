@@ -1,4 +1,5 @@
 Cody Mattern
+Partner: Eugene Ho
 CSCI 3308 Lab 3
 
 <<<<<<< HEAD
